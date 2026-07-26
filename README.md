@@ -25,7 +25,6 @@ The system automatically updates the balance of both accounts after each transac
 
 - Java
 - Java Swing
-- Object-Oriented Programming (OOP)
 
 ## 🔮 Future Improvements
 
